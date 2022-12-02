@@ -1,0 +1,10 @@
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\bin\Debug\Guerra Israel.exe.config
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\bin\Debug\Guerra Israel.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\bin\Debug\Guerra Israel.pdb
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.csproj.AssemblyReference.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra_Israel.Properties.Resources.resources
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.csproj.GenerateResource.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.csproj.CoreCompileInputs.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\hugo\fesa\algoritmo II\Guerra Israel\Guerra Israel\obj\Debug\Guerra Israel.pdb
